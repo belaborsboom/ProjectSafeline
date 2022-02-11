@@ -4,3 +4,6 @@ body{
 ul{
   display: flex;
 }
+li{
+  padding: 10px 60px 10px 60px;
+}
