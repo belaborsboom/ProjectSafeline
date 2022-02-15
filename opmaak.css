@@ -6,8 +6,13 @@ ul{
   list-style: none;
   padding: 10px 0px 0px 10px;
   margin: 0px 0px 0px 0px;
+  background-color: grey;
 }
 li{
   padding: 0px 60px 0px 0px;
   color: yellow;
+}
+
+p{
+  color: white;
 }
