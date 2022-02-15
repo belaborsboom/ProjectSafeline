@@ -1,5 +1,5 @@
 body{
-  background-color: white;
+  background-color: black;
 }
 ul{
   display: flex;
@@ -9,4 +9,5 @@ ul{
 }
 li{
   padding: 0px 60px 0px 0px;
+  color: yellow;
 }
