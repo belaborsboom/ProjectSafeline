@@ -5,7 +5,7 @@ ul{
   display: flex;
   list-style: none;
   padding: 10px 10px 10px 10px;
-  margin: 0px 0px 0px 0px;
+  margin: 10px 10px 10px 10px;
   background-color: grey;
 }
 li{
