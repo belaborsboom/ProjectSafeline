@@ -5,6 +5,7 @@ body{
 p{
   font-size: 18px;
   color: white;
+  font-style: italic;
 }
 ul{
   display: flex;
@@ -17,13 +18,16 @@ li{
   padding: 10px 10px 10px 10px;
   color: yellow;
   font-size: 20px;
+  font-style: italic;
 }
 h1{
   font-size: 30px;
   color: magenta;
+  font-style: italic;
 }
 
 h2{
   font-size: 25px;
-  color: magenta; 
+  color: magenta;
+  font-style: italic;
 }
