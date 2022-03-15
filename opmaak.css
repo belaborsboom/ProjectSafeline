@@ -41,10 +41,12 @@ h2{
 
 a:visited{
   text-decoration: none;
+  color: yellow;
 }
 
 a:link{
   text-decoration: none;
+  color: yellow;
 }
 a:hover{
   text-decoration: none;
