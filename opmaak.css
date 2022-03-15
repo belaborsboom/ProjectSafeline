@@ -20,6 +20,11 @@ li{
   font-size: 20px;
   font-style: italic;
 }
+
+li:hover{
+  background-color: black;
+}
+
 h1{
   font-size: 30px;
   color: magenta;
