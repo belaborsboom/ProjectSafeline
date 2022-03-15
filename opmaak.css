@@ -31,3 +31,7 @@ h2{
   color: magenta;
   font-style: italic;
 }
+
+a:visited{
+  text-decoration: none;
+}
