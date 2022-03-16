@@ -1,6 +1,7 @@
 body{
   background-color: black;
   font-size: 10px;
+  margin: 0px 0px 20px 20px;
 }
 p{
   font-size: 18px;
@@ -11,7 +12,7 @@ ul{
   display: flex;
   list-style: none;
   padding: 10px 10px 10px 10px;
-  margin: 10px 10px 20px 20px;
+  margin: 10px 10px 0px 0px;
   background-color: grey;
 }
 li{
