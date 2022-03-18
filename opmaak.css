@@ -23,6 +23,7 @@ li{
 }
 
 li:hover{
+  transition: 1s;
   background-color: black;
 }
 
