@@ -37,13 +37,17 @@ h1{
   font-style: italic;
 }
 
-h2, h3{
+h2{
   font-size: 25px;
   color: magenta;
   font-style: italic;
 }
 
-
+h3{
+  font-size: 20px;
+  color: magenta;
+  font-style: italic;
+}
 
 a:visited{
   text-decoration: none;
