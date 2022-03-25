@@ -65,7 +65,3 @@ a:hover{
 a:active{
   text-decoration: none;
 }
-
-article.left {
-  float: right;
-}
