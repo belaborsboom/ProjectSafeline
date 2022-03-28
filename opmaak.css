@@ -65,6 +65,11 @@ a:hover{
 a:active{
   text-decoration: none;
 }
+
 .tekst1{
   margin: 0px 300px 0px 10px;
+}
+
+.img1{
+  float: right;
 }
