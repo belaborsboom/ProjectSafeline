@@ -73,6 +73,11 @@ a:active{
 .img1{
   float: right;
 }
+
 .floatright{
   float: right;
+}
+
+.sectione{
+  margin: 200px 0px 0px 0px;
 }
