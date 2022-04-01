@@ -1,11 +1,22 @@
 body{
-  background: linear-gradient(to right, transparent, blue, black), url('https://belaborsboom.github.io/ProjectSafeline/download.png');
+  background: linear-gradient(to right, transparent, #0944A3, black), url('https://belaborsboom.github.io/ProjectSafeline/download.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
   font-size: 10px;
   margin: 0px 15% 0px 15%;
 }
+
+.background1{
+  background: linear-gradient(to right, transparent, #0944A3, black), url('https://belaborsboom.github.io/ProjectSafeline/download.png');
+}
+.background2{
+  background: linear-gradient(to right, transparent, #A30000, black), url('https://belaborsboom.github.io/ProjectSafeline/download.png');
+}
+.background3{
+  background: linear-gradient(to right, transparent, #0AA335, black), url('https://belaborsboom.github.io/ProjectSafeline/download.png');
+}
+
 p{
   font-size: 18px;
   color: white;
