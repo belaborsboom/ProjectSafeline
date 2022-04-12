@@ -100,12 +100,14 @@ a:active{
 
 .left{
   border: 1px solid white;
+  width: 49.5%;
   float: left;
   margin 0px 0px 2px 0px;
 }
 
 .right{
   border: 1px solid white;
+  width: 50%;
   float: right;
   margin 0px 0px 2px 0px;
 }
