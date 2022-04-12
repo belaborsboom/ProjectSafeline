@@ -22,7 +22,7 @@ body{
   background-size: cover;
 }
 .background4{
-  background: linear-gradient(to right, transparent, yellow, black), url('https://belaborsboom.github.io/ProjectSafeline/download.png');
+  background: linear-gradient(to right, transparent, rgb(155, 155, 0), black), url('https://belaborsboom.github.io/ProjectSafeline/download.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
