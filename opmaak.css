@@ -97,6 +97,15 @@ a:active{
 .menu{
   padding: 10px 10px 10px 10px;
 }
+
 .left{
   border: 1px solid white
+  float: left;
+  margin 0px 0px 2px 0px;
+}
+
+.right{
+  border: 1px solid white
+  float: right;
+  margin 0px 0px 2px 0px;
 }
