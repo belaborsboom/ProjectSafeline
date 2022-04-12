@@ -25,7 +25,6 @@ body{
 p{
   font-size: 18px;
   color: white;
-  font-style: italic;
 }
 ul{
   display: flex;
@@ -50,19 +49,16 @@ li:hover{
 h1{
   font-size: 45px;
   color: magenta;
-  font-style: italic;
 }
 
 h2{
   font-size: 25px;
   color: magenta;
-  font-style: italic;
 }
 
 h3{
   font-size: 20px;
   color: magenta;
-  font-style: italic;
 }
 
 a:visited{
@@ -101,6 +97,7 @@ a:active{
 .left{
   border: 1px solid white;
   width: 49.4%;
+  height: 390px;
   float: left;
   margin: 0px 0px 2px 0px;
 }
@@ -108,6 +105,7 @@ a:active{
 .right{
   border: 1px solid white;
   width: 50%;
+  height: 390px;
   float: right;
   margin: 0px 0px 2px 0px;
 }
