@@ -99,13 +99,13 @@ a:active{
 }
 
 .left{
-  border: 1px solid white
+  border: 1px solid white;
   float: left;
   margin 0px 0px 2px 0px;
 }
 
 .right{
-  border: 1px solid white
+  border: 1px solid white;
   float: right;
   margin 0px 0px 2px 0px;
 }
