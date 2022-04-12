@@ -134,3 +134,6 @@ a:active{
 .cyberp{
   color: rgb(219, 145, 145);
 }
+.imgright{
+  float: right;
+}
