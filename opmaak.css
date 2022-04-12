@@ -111,3 +111,22 @@ a:active{
   float: right;
   margin: 0px 0px 2px 0px;
 }
+
+.indexh{
+  color: rgb(18, 77, 178);
+}
+.indexp{
+  color: rgb(72, 200, 255);
+}
+.overonsh{
+  color: rgb(98, 198, 120);
+}
+.overonsp{
+  color: rgb(144, 213, 159);
+}
+.cyberh{
+  color: rgb(188, 98, 98);
+}
+.cyberp{
+  color: rgb(219, 145, 145);
+}
